@@ -1,0 +1,78 @@
+
+body {
+    background-color: #eee;
+    font-family: monospace;
+}
+.container {
+    text-align: center;
+    padding-top: 100px;    
+}
+
+.listContainer {
+    width: 600px;
+    margin: auto;
+    text-align: left;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.listContainer h1 {
+    
+    
+}
+
+input {
+    height: 50px;
+    font-family: monospace;
+    
+}
+
+input[type=submit] {
+    background: #0066A2;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+    text-shadow:none;
+    font-family: monospace;
+    border-width: 0px;
+    padding-top: 5px;
+}
+input[type=text] {
+    width: 450px;
+    padding-left: 20px;
+    color: #888;
+    font-size: 20px;
+}
+
+li {
+    margin-bottom: 15px;
+    margin-top: 15px
+}
+
+.toView {
+    color: #2196f3;
+}
+
+.viewed {
+    color: #7ce600;
+}
+
+.legendToView {
+    width: 100px;
+    height: 20px;
+    background-color: #2196f3;
+    margin: auto;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+
+.legendVied {
+    width: 100px;
+    height: 20px;
+    background-color: #7ce600;
+    margin: auto;
+    line-height: 19px;
+}
+
