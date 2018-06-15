@@ -1,4 +1,6 @@
-
+/**
+ *  style interfejsu, określają wygląd strony.    
+ */
 body {
     background-color: #eee;
     font-family: monospace;
